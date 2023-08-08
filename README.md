@@ -1,13 +1,13 @@
 # Algoritmo_Parentizacao
 
-Faça a pilha de parêntesis P vazia
-Para cada símbolo sym na expressão (percorrendo da esq. para direita)
+1. Faça a pilha de parêntesis P vazia
+2. Para cada símbolo sym na expressão (percorrendo da esq. para direita)
 repita:
-Se sym é um parêntesis esquerdo
-Adicione sym ao topo da pilha P
-Se sym é um parêntesis direito
-Se a pilha P está vazia, termine com false
-Remova o parêntesis do topo de P para uma variável left
-Se left e sym não são parêntesis complementares, termine
+3. Se sym é um parêntesis esquerdo
+4. Adicione sym ao topo da pilha P
+5. Se sym é um parêntesis direito
+6. Se a pilha P está vazia, termine com false
+7. Remova o parêntesis do topo de P para uma variável left
+8. Se left e sym não são parêntesis complementares, termine
 com false
-Termine com true se a pilha P está vazia, ou false caso contrário
+9. Termine com true se a pilha P está vazia, ou false caso contrário
