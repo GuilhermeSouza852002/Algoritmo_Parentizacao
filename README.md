@@ -1,4 +1,5 @@
 # Algoritmo_Parentizacao
+# Criado por: Cristian Rodolfo, Guilherme Oliveira, Ruan Patrick
 
 1. Faça a pilha de parêntesis P vazia
 2. Para cada símbolo sym na expressão (percorrendo da esq. para direita)
